@@ -42,7 +42,7 @@
 .buttons-main:hover,
 .buttons-main:focus {
   background: var(--main-color);
-  color: #ffffff;
+  color: var(--text-link-color);
 }
 .projects-row {
   width: 1200px;
@@ -60,7 +60,7 @@
 }
 .projects-card {
   width: 370px;
-  background: #ffffff;
+  background: var(--text-link-color);
   border: 1px solid #eeeeee;
 }
 .projects-card:not(:nth-child(n + 7)) {
