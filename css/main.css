@@ -106,6 +106,8 @@
 .header-main-content {
   max-width: 1600px;
   height: 600px;
+  margin-left: auto;
+  margin-right: auto;
   background-image: url("../img/1st/Header-img.jpg");
   background-repeat: no-repeat;
   text-align: center;
